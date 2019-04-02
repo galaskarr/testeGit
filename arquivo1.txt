@@ -12,3 +12,5 @@ Versão estável:	2.18.0 (21 de junho de 2018; há 11 meses)
 SO:				POSIX
 Gênero(s):		Sistema de controle de versões
 Licença:		GNU GPLv2
+
+Página oficial	git-scm.com
