@@ -5,3 +5,15 @@ Git pronunciado /git/ (ou pronunciado /dit/ em inglês britânico) é um sistema
 
 Nome
 Quando perguntado sobre o porquê do nome, Linus Torvalds satirizou sobre o termo "Git", uma gíria em inglês britânico para cabeça dura, pessoas que acham que sempre têm razão, argumentativas, podendo ser também pessoa desagradável ou estúpida.
+
+Mais informações
+
+Desenvolvedor:	Linus Torvalds, Junio Hamano
+
+Lançamento:		7 de abril de 2005 (13 anos)
+Versão estável:	2.18.0 (21 de junho de 2018; há 11 meses)
+SO:				POSIX
+Gênero(s):		Sistema de controle de versões
+Licença:		GNU GPLv2
+
+Página oficial	git-scm.com
